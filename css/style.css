@@ -5,11 +5,11 @@ body{
     background: #1a1a1a;
 }
 section{
-    width: 95%;
-    height: 640px;
-    max-width: 1800px;
+    width: 90%;
+    height: 630px;
+    max-width: 1600px;
    
-    margin: 90px auto;
+    margin: 160px auto;
 }
 
 #fila{
